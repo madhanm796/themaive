@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://madhanm796.github.io/themaive",
+  "homepage": "https://madhanm796.github.io/themaive/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
