@@ -1,0 +1,27 @@
+{
+    "id": 0,
+    "title": "Return & Refund Policy",
+    "description": "Maive delivers digital products and services which are non-returnable by nature. As such, we do not offer refunds once a digital delivery is confirmed.",
+    "list": [
+        {
+            "id": 0,
+            "title": "However, exceptions will be made in the following cases:",
+            "subheading":"We may collect:",
+            "items": [
+                {
+                    "id": 0,
+                    "content": "Corrupted or non-functional files"
+                },
+                {
+                    "id": 1,
+                    "content": "Service delivery failure on our part"
+                },
+                {
+                    "id": 2,
+                    "content": "Technical issues during download or access"
+                }
+            ],
+            "conclusion":"In such cases, please contact us at themaive.in@gmail.com within 7 days of purchase. We will investigate and either provide a replacement or issue a refund, at our sole discretion."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "You share your idea or requirement",
+        "image":"idea.png"
+    },
+    {
+        "id": 2,
+        "title": "Maive review it and share a quote",
+        "image":"review.png"
+    },
+    {
+        "id": 3,
+        "title": "Development begins",
+        "image":"development.png"
+    },
+    {
+        "id": 4,
+        "title": "Product is delivered and reviewed",
+        "image":"delivery.png"
+    },
+    {
+        "id": 5,
+        "title": "You get the final files",
+        "image":"files.png"
+    },
+    {
+        "id": 6,
+        "title": "You get support",
+        "image":"support.png"
+    }
+]

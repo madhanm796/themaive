@@ -1,0 +1,190 @@
+[
+    {
+        "id": 0,
+        "question": "Who are your services for?",
+        "title": "Our software solutions are tailored for",
+        "items": [
+            {
+                "id": 0,
+                "content": "Final-year students (projects for academic submission)"
+            },
+            {
+                "id": 1,
+                "content": "Businesses and startups (custom web, mobile, desktop apps)"
+            },
+            {
+                "id": 2,
+                "content": "Individuals seeking digital tools or automation for their needs"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "question": "What types of software do you deliver?",
+        "title": "We develop",
+        "items": [
+            {
+                "id": 0,
+                "content": "Web Applications (Frontend + Backend)"
+            },
+            {
+                "id": 1,
+                "content": "Android Mobile Apps"
+            },
+            {
+                "id": 2,
+                "content": "Desktop Applications (Java, Python, etc.)"
+            },
+            {
+                "id": 3,
+                "content": "Backend Services (APIs, Databases, Authentication)"
+            },
+            {
+                "id": 4,
+                "content": "Full Final-Year Projects with documentation"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "How long does it take to complete a project?",
+        "title": "We usually deliver",
+        "items": [
+            {
+                "id": 0,
+                "content": "Student Projects: within 5–10 working days"
+            },
+            {
+                "id": 1,
+                "content": "Small Business Solutions: within 10–20 working days"
+            },
+            {
+                "id": 2,
+                "content": "Medium-scale apps or systems: timeline will be discussed based on scope"
+            }
+        ],
+        "conclusion": "Timelines can vary based on workload and complexity — quality is my priority."
+    },
+    {
+        "id": 3,
+        "question": "Do you offer source code and documentation?",
+        "title": "Yes. For every project, We provide",
+        "items": [
+            {
+                "id": 0,
+                "content": "Full source code"
+            },
+            {
+                "id": 1,
+                "content": "README / Setup Instructions"
+            },
+            {
+                "id": 2,
+                "content": "For student projects: full documentation (SRS, UML, PPT, etc.) if requested"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "Do you offer revisions?",
+        "items": [
+            {
+                "id": 0,
+                "content": "Yes, We provide 2 free revisions within 7 days of delivery. Additional changes beyond that may involve extra charges depending on effort and complexity."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "What technologies do you use?",
+        "title": "Some of the core technologies we work with include",
+        "items": [
+            {
+                "id": 0,
+                "content": "Frontend: HTML, CSS3, Tailwind, Bootstrap, ReactJS"
+            },
+            {
+                "id": 1,
+                "content": "Backend: Java (Spring Boot), Node.js, Express"
+            },
+            {
+                "id": 2,
+                "content": "Databases: MySQL, MongoDB"
+            },
+            {
+                "id": 3,
+                "content": "Mobile/Desktop: Java (Android/Swing), Kotlin, Python"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question": "How do I request a project or service?",
+        "title": "You can reach out via",
+        "items": [
+            {
+                "id": 0,
+                "content": "Email or WhatsApp (details on the Contact page)"
+            },
+            {
+                "id": 1,
+                "content": "Share your requirements or reference projects"
+            },
+            {
+                "id": 2,
+                "content": "we'll get back to you within 24 hours to discuss further"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question": "Do you offer support after delivery?",
+        "title": "Yes. We offer",
+        "items": [
+            {
+                "id": 0,
+                "content": "Student Support: For viva/preparation until project submission"
+            },
+            {
+                "id": 1,
+                "content": "Business Support: Bug fixes and setup assistance for 15 days post-delivery"
+            }
+        ],
+        "conclusion":"Long-term support/maintenance can be discussed separately."
+   },
+    {
+        "id": 8,
+        "question": "What are the payment terms?",
+        "items": [
+            {
+                "id": 0,
+                "content": "For small/student projects: 50% advance, 50% after delivery"
+            },
+            {
+                "id": 1,
+                "content": "For larger projects: Milestone-based payment schedule"
+            }
+        ],
+        "conclusion":"Secure payment via UPI, bank transfer, or Razorpay."
+   },
+    {
+        "id": 9,
+        "question": "What if I need urgent delivery?",
+        "items": [
+            {
+                "id": 0,
+                "content": "Urgent requests are accepted based on availability and may include an additional fee. Contact me with the exact deadline, and We'll confirm if it's feasible."
+            }
+        ]
+   },
+    {
+        "id": 10,
+        "question": "Do you sign NDAs or project agreements?",
+        "items": [
+            {
+                "id": 0,
+                "content": "Yes, if required by startups or business clients, We are open to signing NDAs and mutual agreements to protect your idea and data."
+            }
+        ]
+   }
+]

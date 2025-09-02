@@ -1,0 +1,42 @@
+{
+    "id": 0,
+    "title": "Shipping & Delivery Policy",
+    "description": "Maive provides only digital products and services. As such, there is no physical shipping involved.",
+    "list": [
+        {
+            "id": 0,
+            "title": "Delivery Method",
+            "conclusion": "All digital items will be delivered via email, in-app access, or direct download links upon successful payment."
+        },
+        {
+            "id": 1,
+            "title": "Delivery Timeline",
+            "items": [
+                {
+                    "id": 0,
+                    "content": "Standard digital products: Instant or within 15 minutes of payment."
+                },
+                {
+                    "id": 1,
+                    "content": "Customized services: As per timeline agreed during order placement (usually within 1–3 business days)."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Non-Receipt",
+            "conclusion": "If you do not receive your item within the expected time, please check your spam folder. If the issue persists, contact us at themaive.in@gmail.com."
+        },
+        {
+            "id": 3,
+            "title": "No Physical Shipping",
+            "conclusion":"Maive does not ship any physical goods."
+        },
+        {
+            "id": 4,
+            "title": "Contact",
+            "conclusion":"For any questions regarding these terms, please contact us at: themaive.in@gmail.com"
+        }
+    ],
+    "conclusion": "By using our platform, you agree to these Terms and Conditions. If you do not agree, please do not use our services."
+}

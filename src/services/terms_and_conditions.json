@@ -1,0 +1,63 @@
+{
+    "id": 0,
+    "title": "terms and conditions",
+    "subheading": "Welcome to Maive!",
+    "description": "By accessing or using the Maive mobile application, website, and our services, you agree to be bound by the following Terms and Conditions. Please read them carefully before proceeding.",
+    "list": [
+        {
+            "id": 0,
+            "title": "Acceptance of Terms",
+            "conclusion": "By using our platform, you agree to these Terms and Conditions. If you do not agree, please do not use our services."
+        },
+        {
+            "id": 1,
+            "title": "Who We Serve",
+            "items": [
+                {
+                    "id": 0,
+                    "content": "College students seeking academic, creative, or productivity-related digital support."
+                },
+                {
+                    "id": 1,
+                    "content": "Startups and individual business owners looking for design, consultation, or digital resource solutions."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Services",
+            "conclusion": "Maive provides a range of digital products and services such as templates, design assets, digital planning tools, consulting materials, and more. We reserve the right to modify or discontinue any service at any time without prior notice."
+        },
+        {
+            "id": 3,
+            "title": "Payments",
+            "conclusion":"All payments are securely processed through third-party providers such as Razorpay. By using our services, you agree to the payment terms as outlined during checkout."
+        },
+        {
+            "id": 4,
+            "title": "Intellectual Property",
+            "conclusion":"All content, designs, and materials provided by Maive are the intellectual property of Maive and may not be copied, redistributed, or resold without explicit written permission."
+        },
+        {
+            "id": 5,
+            "title": "User Responsibilities",
+            "conclusion":"Users must not use Maive’s services for any illegal, abusive, or unauthorized purposes. You agree to provide accurate information when using our services."
+        },
+        {
+            "id": 6,
+            "title": "Limitation of Liability",
+            "conclusion":"Maive is not liable for any indirect, incidental, or consequential damages resulting from the use or inability to use our services."        
+        },
+        {
+            "id": 7,
+            "title": "Modifications",
+            "conclusion":"We may update these Terms from time to time. Continued use of the platform implies your acceptance of the revised terms."
+        },
+        {
+            "id": 8,
+            "title": "Contact",
+            "conclusion":"For any questions regarding these terms, please contact us at: themaive.in@gmail.com"
+        }
+    ],
+    "conclusion": "By using our platform, you agree to these Terms and Conditions. If you do not agree, please do not use our services."
+}

@@ -1,0 +1,83 @@
+[
+    {
+        "id": 0,
+        "service": "Web Application Development",
+        "description": "Scalable, secure, and modern web apps tailored to your exact requirements.",
+        "services": [
+            {
+                "id": 0,
+                "title": "Frontend with HTML, CSS, JavaScript, React, etc."
+            },
+                       {
+                "id": 1,
+                "title": "Backend integration with APIs and databases"
+            },
+                       {
+                "id": 2,
+                "title": "Real-time and interactive capabilities"
+            }
+        ],
+        "router": "/"
+    },
+    {
+        "id": 1,
+        "service": "Mobile Application Development",
+        "description": "Build responsive, high-performance mobile apps for Android (and iOS if applicable).",
+        "services": [
+            {
+                "id": 0,
+                "title": "Native or hybrid app solutions"
+            },
+             {
+                "id": 1,
+                "title": "Optimized UI/UX for smooth user experience"
+            },
+             {
+                "id": 2,
+                "title": "Academic and business-ready features"
+            }
+
+        ],
+        "router": "/"
+    },
+    {
+        "id": 2,
+        "service": "Desktop Application Development",
+        "description": "Robust desktop software for Windows systems (Java, Python, etc.).",
+        "services": [
+            {
+                "id": 0,
+                "title": "Lightweight and user-friendly interfaces"
+            },
+             {
+                "id": 1,
+                "title": "Ideal for offline use and academic projects"
+            },
+             {
+                "id": 2,
+                "title": "Custom features and installers"
+            }
+        ],
+        "router": "/"
+    },
+    {
+        "id": 3,
+        "service": "Backend Server Development",
+        "description": "Secure and efficient backend systems to power your apps and websites.",
+        "services": [
+            {
+                "id": 0,
+                "title": "RESTful API development"
+            },
+                        {
+                "id": 1,
+                "title": "Database design and integration"
+            },
+                        {
+                "id": 2,
+                "title": "Authentication & cloud deployment support."
+            }
+        ],
+        "router": "/"
+    }
+]

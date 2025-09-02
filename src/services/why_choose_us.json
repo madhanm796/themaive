@@ -1,0 +1,44 @@
+[
+    {
+        "id":0,
+        "title":"Tailored Software for Every Need",
+        "description":"Whether you're a final-year student or a business professional, we deliver custom-built software solutions that align perfectly with your goals. ",
+        "icon":""
+    },
+        {
+        "id":1,
+        "title":"Academic Project Expertise",
+        "description":"We specialize in delivering high-quality, real-time academic projects with complete documentation and support — helping students stand out.",
+        "icon":""
+    },
+        {
+        "id":2,
+        "title":"Corporate-Grade Quality",
+        "description":"Our enterprise-grade software solutions are built with industry best practices, ensuring performance, security, and scalability.",
+        "icon":""
+    },
+        {
+        "id":3,
+        "title":"Fast Turnaround Time",
+        "description":"We value your time. Our streamlined development process ensures your software is delivered on time without compromising quality.",
+        "icon":""
+    },
+        {
+        "id":4,
+        "title":"End-to-End Support",
+        "description":"From ideation to deployment, we provide complete support — including code explanations, setup guidance, and post-delivery assistance.",
+        "icon":""
+    },
+        {
+        "id":5,
+        "title":"Transparent & Affordable Pricing",
+        "description":"Get premium-quality software at student-friendly and business-reasonable pricing with no hidden charges.",
+        "icon":""
+    },
+        {
+        "id":6,
+        "title":"100% Customization",
+        "description":"Every product is built from scratch or tailored to your specific requirements — no generic templates.",
+        "icon":""
+    }
+]

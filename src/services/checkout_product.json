@@ -1,0 +1,37 @@
+{
+    "id":"43535-646242-5343-3232",
+    "name": "Android notes app with firebase",
+    "description": "A modern, lightweight, and user-friendly note-taking mobile application designed for Android devices. Ideal for final-year students and learners looking to showcase full-stack mobile development using Firebase.",
+    "price":"1,499",
+    "afterFee":"1,528.98",
+    "features": [
+        {
+            "title": "User Authentication",
+            "description": "Sign up and log in using Firebase Authentication (Email/Password)."
+        },
+        {
+            "title": "Cloud Sync",
+            "description": "Notes are automatically synced and stored securely using Cloud Firestore."
+        },
+        {
+            "title": "Create, Edit, Delete Notes",
+            "description": "Easy-to-use interface to manage all your personal or academic notes."
+        },
+        {
+            "title": "Dark Mode Support",
+            "description": "Built-in toggle to switch between light and dark theme."
+        },
+        {
+            "title": "Search Functionality",
+            "description": "Quickly find notes using a powerful keyword search."
+        },
+        {
+            "title": "Offline Support",
+            "description": "Works seamlessly even without internet. Syncs automatically when back online."
+        },
+        {
+            "title": "Secure Storage",
+            "description": "Firebase ensures encrypted and safe data handling."
+        }
+    ]
+}

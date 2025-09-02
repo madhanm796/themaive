@@ -1,0 +1,155 @@
+{
+    "id": 0,
+    "name": "Android notes app with firebase",
+    "description": "A modern, lightweight, and user-friendly note-taking mobile application designed for Android devices. Ideal for final-year students and learners looking to showcase full-stack mobile development using Firebase.",
+    "key_features": {
+        "title": "Key Features",
+        "content": [
+            {
+                "id": 0,
+                "title": "User Authentication",
+                "description": "Sign up and log in using Firebase Authentication (Email/Password)."
+            },
+            {
+                "id": 1,
+                "title": "Cloud Sync",
+                "description": "Notes are automatically synced and stored securely using Cloud Firestore."
+            },
+            {
+                "id": 2,
+                "title": "Create, Edit, Delete Notes",
+                "description": "Easy-to-use interface to manage all your personal or academic notes."
+            },
+            {
+                "id": 3,
+                "title": "Dark Mode Support",
+                "description": "Built-in toggle to switch between light and dark theme."
+            },
+            {
+                "id": 4,
+                "title": "Search Functionality",
+                "description": "Quickly find notes using a powerful keyword search."
+            },
+            {
+                "id": 5,
+                "title": "Offline Support",
+                "description": "Works seamlessly even without internet. Syncs automatically when back online."
+            },
+            {
+                "id": 6,
+                "title": "Secure Storage",
+                "description": "Firebase ensures encrypted and safe data handling."
+            }
+        ]
+    },
+    "tech_stack": {
+        "title": "Tech Stack",
+        "content": [
+            {
+                "id": 0,
+                "title": "Frontend",
+                "description": "Java (Android Studio)"
+            },
+            {
+                "id": 1,
+                "title": "Backend",
+                "description": "Firebase Authentication, Firestore"
+            },
+            {
+                "id": 2,
+                "title": "Libraries Used",
+                "description": "Glide, Material Components, Firebase SDKs"
+            }
+        ]
+    },
+    "perfect_for": {
+        "title": "Perfect For",
+        "content": [
+            {
+                "id": 0,
+                "title": null,
+                "description": "Final Year Android App Projects"
+            },
+            {
+                "id": 1,
+                "title": null,
+                "description": "Java & Firebase Learners"
+            },
+            {
+                "id": 2,
+                "title": null,
+                "description": "Portfolio Showcasing"
+            },
+            {
+                "id": 3,
+                "title": null,
+                "description": "Resume Building with Real Projects"
+            }
+        ]
+    },
+    "deliverables": {
+        "title": "Deliverables",
+        "content": [
+            {
+                "id": 0,
+                "title": null,
+                "description": "Complete Android Studio Project (Source Code)"
+            },
+            {
+                "id": 1,
+                "title": null,
+                "description": "ReadMe File with Setup Instructions"
+            },
+            {
+                "id": 2,
+                "title": null,
+                "description": "Documentation (Project Report - Optional Add-on)"
+            },
+            {
+                "id": 3,
+                "title": null,
+                "description": "Free Bug Fixes & Support for 7 Days"
+            },
+            {
+                "id": 4,
+                "title": null,
+                "description": "Optional: APK Build for Direct Demo"
+            }
+        ]
+    },
+    "pricing": {
+        "title": "Pricing",
+        "content": [
+            {
+                "id": 0,
+                "title": "Standard Version",
+                "description": "₹1499"
+            },
+            {
+                "id": 1,
+                "title": "With Report (PDF + DOC)",
+                "description": "₹1999"
+            },
+            {
+                "id": 2,
+                "title": "Custom Feature Add-on",
+                "description": "Starts at ₹299 (e.g., Reminders, Categories, Backup)"
+            }
+        ]
+    },
+    "timeline": {
+        "title": "Delivery Timeline",
+        "content": [
+            {
+                "id": 0,
+                "title": "Standard",
+                "description": "2–3 business days"
+            },
+            {
+                "id": 1,
+                "title": "With Customizations",
+                "description": "3–5 business days"
+            }
+        ]
+    }
+}
