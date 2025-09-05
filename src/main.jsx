@@ -22,7 +22,7 @@ import Shipping from './pages/policies/Shipping.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path={'/'} element={<App />}>
           <Route path={''} element={<HomePage/>}></Route>
@@ -52,6 +52,6 @@ createRoot(document.getElementById('root')).render(
 
         <Route path='*' element={<NotFound />}></Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   </StrictMode>
 )
